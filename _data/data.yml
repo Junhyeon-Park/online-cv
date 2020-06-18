@@ -34,17 +34,20 @@ sidebar:
 
 
 education:
+    - degree: Combined MS/PhD Student
+      university: Korea Advanced Institute of Science and Technology (Supv. Sung Ju Hwang)
+      time: 2020 - Current
     - degree: B.S. in Computer Engineering
       university: Ulsan National Institute of Science and Technology 
       time: 2013 - 2018
 
 
-experiences:
-    - role: Combined MS/PhD Student
-      time: 2020 - Current
-      company: Korea Advanced Institute of Science and Technology (Supv. Sung Ju Hwang)
-         
-         
+# experiences:
+#     - role: Combined MS/PhD Student
+#       time: 2020 - Current
+#       company: Korea Advanced Institute of Science and Technology (Supv. Sung Ju Hwang)
+      
+      
 projects:
     title: Projects
     assignments:
